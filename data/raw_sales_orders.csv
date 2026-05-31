@@ -1,0 +1,16 @@
+Order ID,CUST_NM,Ord Date,Deliv_Date,Qty,Unit Price ($),Total Amt,Status,Priority Flag,Region
+1001," Alice Johnson ",01/15/2024,2024-01-20,5,"$250.00","$1,250.00",PENDING,Y,North
+1002,Bob Smith,2024-01-16,,3,"$100.00","$300.00",shipped,N,South
+1003," Carol White  ",Jan 17 2024,Jan 22 2024,2,"$500.00","$1,000.00",DELIVERED,yes,East
+1004,Dave Brown,01/18/2024,2024-01-23,0,"$75.00","$0.00",pend,no,West
+1005,,2024-01-19,2024-01-24,10,"$200.00","$2,000.00",CANCELLED,1,North
+1006,Eve Davis,01/20/2024,,,"$150.00","$750.00",DLVD,Y,
+1007,Frank Wilson,2024-01-21,2024-01-26,4,"$1,234.56","$4,938.24",Pending,N,East
+1008,Grace Lee,Jan 22 2024,Jan 27 2024,1,"$50.00","$50.00",SHIPPED,yes,South
+1009,Henry Clark,01/23/2024,2024-01-28,8,"$300.00","$2,400.00",CANCLD,no,West
+1010," Iris Martinez",2024-01-24,2024-01-29,2,"$800.00","$1,600.00",DELIVERED,0,North
+1011,Jake Lewis,01/25/2024,,6,"$125.00","$750.00",pending,Y,South
+1012,Karen Hall,2024-01-26,2024-01-31,3,"$450.00","$1,350.00",SHIPPED,N,East
+1013,,Jan 27 2024,Feb 1 2024,1,"$600.00","$600.00",Delivered,1,West
+1014,Mike Young,01/28/2024,2024-02-02,7,"$90.00","$630.00",PENDING,yes,North
+1015,Nancy King,2024-01-29,,5,"$175.00","$875.00",shippd,no,South
